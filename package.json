@@ -9,6 +9,10 @@
     "@hotwired/stimulus": "^3.0.1",
     "@hotwired/turbo-rails": "^7.1.1",
     "esbuild": "^0.14.25",
-    "esbuild-rails": "^1.0.3"
+    "esbuild-rails": "^1.0.3",
+    "uswds": "^2.13.2"
+  },
+  "devDependencies": {
+    "@uswds/compile": "^1.0.0-alpha.0"
   }
 }
