@@ -7,10 +7,11 @@
 ========================================
 ========================================
 */
-
 // -------------------------------------
-// Import individual theme settings...
+// US web Design System configuration
+$asset-path: "../../../node_modules/uswds/dist/scss/";
 
+// Import individual theme settings...
 @import "uswds-theme-general";
 @import "uswds-theme-typography";
 @import "uswds-theme-spacing";
@@ -27,8 +28,8 @@
 // See https://designsystem.digital.gov/components/
 
 // First import required and global packages...
-// @import 'packages/required';
-// @import 'packages/global';
+// @import "packages/required";
+// @import "packages/global";
 
 // Then import individual component packages...
 // @import 'packages/form-controls';

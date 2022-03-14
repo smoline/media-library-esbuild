@@ -13,7 +13,7 @@ uswds.paths.src.fonts = './node_modules/uswds/dist/fonts'
 uswds.paths.src.img = './node_modules/uswds/dist/img'
 uswds.paths.src.js = './node_modules/uswds/dist/js'
 
-uswds.paths.dist.sass = './assets/stylesheets';
+uswds.paths.dist.sass = './sass';
 
 /**
  * Exports
